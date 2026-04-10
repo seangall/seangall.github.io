@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms &amp; Conditions – The Bank of Sean</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root { --navy: #0a1628; --gold: #c9a84c; --gold-light: #e8d596; --cream: #f5f0e8; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'DM Sans', sans-serif; background: var(--navy); color: var(--cream); min-height: 100vh; padding: 3rem 1.5rem; }
+  .container { max-width: 680px; margin: 0 auto; }
+  h1 { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: var(--gold); text-align: center; margin-bottom: 0.5rem; }
+  .subtitle { text-align: center; color: var(--gold-light); opacity: 0.6; font-size: 0.85rem; margin-bottom: 3rem; letter-spacing: 0.1em; }
+  .clause { margin-bottom: 1.8rem; padding-left: 1rem; border-left: 2px solid var(--gold); }
+  .clause-num { font-size: 0.75rem; color: var(--gold); letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 0.3rem; }
+  .clause p { line-height: 1.7; opacity: 0.85; font-size: 0.95rem; }
+  .back { display: block; text-align: center; margin-top: 3rem; color: var(--gold); text-decoration: none; font-size: 0.9rem; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--gold); padding-bottom: 2px; display: inline-block; }
+  .back-wrap { text-align: center; margin-top: 3rem; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Terms &amp; Conditions</h1>
+  <p class="subtitle">Last updated: Just now, actually</p>
+
+  <div class="clause">
+    <div class="clause-num">Clause 1 – Acceptance</div>
+    <p>By accessing this website, you agree to these Terms and Conditions in their entirety. Closing the tab does not constitute disagreement; it merely constitutes cowardice.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 2 – Account Eligibility</div>
+    <p>To open an account with The Bank of Sean, you must be at least 18 years of age, of sound mind, and willing to accept that your balance will always be zero. These requirements are non-negotiable.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 3 – Deposits</div>
+    <p>The Bank of Sean does not accept deposits. If you attempt to give us money, we will accept it graciously, but it will not appear in your balance. See Clause 2.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 4 – Withdrawals</div>
+    <p>Withdrawals are permitted at any time, provided you can withdraw from nothing. The Bank of Sean wishes you the very best of luck with this.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 5 – Interest Rates</div>
+    <p>The Bank of Sean offers a highly competitive interest rate of 0.000%. This rate is fixed, variable, and imaginary all at the same time.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 6 – Overdraft Protection</div>
+    <p>There is no overdraft facility. If you attempt to spend money you don't have, Sean will personally ring you and say "cop on."</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 7 – Customer Service Hours</div>
+    <p>Customer service is available Monday to Friday, 11:00 AM to 11:07 AM, excluding bank holidays, Tuesdays when it's raining, and any day Sean doesn't feel like it.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 8 – Dispute Resolution</div>
+    <p>All disputes shall be resolved via arm wrestling. In the event of a tie, the matter will be escalated to a best-of-three rock-paper-scissors tournament held in a Supermac's car park of Sean's choosing.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 9 – Data Protection</div>
+    <p>The Bank of Sean takes your data very seriously. So seriously, in fact, that we have decided not to collect any. We don't know who you are, and frankly, we'd like to keep it that way.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 10 – Currency</div>
+    <p>The Bank of Sean operates exclusively in vibes. Conversion rates to Euro, Dollar, or Sterling are determined by Sean's mood on any given morning. Bitcoin is not accepted. Dogecoin is reluctantly tolerated.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 11 – Loan Policy</div>
+    <p>The Bank of Sean may, at its sole discretion, lend you a fiver. This loan carries no interest but does carry the emotional weight of Sean reminding you about it at every social gathering for the rest of your natural life.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 12 – Dress Code</div>
+    <p>All customers visiting the Bank of Sean headquarters (Sean's gaff) must remove their shoes at the door. Socks with holes will be judged silently but severely.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 13 – Force Majeure</div>
+    <p>The Bank of Sean shall not be held liable for service interruptions caused by acts of God, acts of Sean, the Late Late Show being on, a good match on the telly, or the WiFi being dodgy again.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 14 – Loyalty Programme</div>
+    <p>Customers who remain loyal to The Bank of Sean for five consecutive years will receive absolutely nothing. But they will receive it with our sincere gratitude and a firm handshake.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 15 – Amendments</div>
+    <p>The Bank of Sean reserves the right to amend these Terms and Conditions at any time, without notice, for any reason, or for no reason at all. If you don't like it, please refer to Clause 8.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 16 – Governing Law</div>
+    <p>These Terms shall be governed by the Laws of Sean, which supersede all Irish, European, and international law. Appeals may be made to Sean's mother, whose ruling shall be final and binding.</p>
+  </div>
+
+  <div class="clause">
+    <div class="clause-num">Clause 17 – The Final Clause</div>
+    <p>By reading this far, you have demonstrated a level of commitment that The Bank of Sean finds both admirable and concerning. Please go outside. Touch grass. We'll still be here when you get back. Probably.</p>
+  </div>
+
+  <div class="back-wrap">
+    <a href="index.html" class="back">&larr; Back to Home</a>
+  </div>
+</div>
+</body>
+</html>
