@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Balance – The Bank of Sean</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root { --navy: #0a1628; --gold: #c9a84c; --cream: #f5f0e8; --red: #c94c4c; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'DM Sans', sans-serif; background: var(--navy); color: var(--cream); min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 2rem; }
+  h1 { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: var(--gold); margin-bottom: 2.5rem; }
+  .balance-box { border: 2px solid var(--gold); padding: 3rem 3.5rem; }
+  .amount { font-family: 'Playfair Display', serif; font-size: 4rem; color: var(--red); margin-bottom: 0.5rem; }
+  .message { font-size: 1.4rem; color: var(--cream); opacity: 0.85; }
+  .back { margin-top: 2.5rem; display: inline-block; color: var(--gold); text-decoration: none; font-size: 0.9rem; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--gold); padding-bottom: 2px; }
+</style>
+</head>
+<body>
+  <h1>Your Balance</h1>
+  <div class="balance-box">
+    <div class="amount">€0.00</div>
+    <div class="message">None, you're broke.</div>
+  </div>
+  <a href="index.html" class="back">&larr; Back to Home</a>
+</body>
+</html>
